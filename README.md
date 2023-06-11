@@ -1,1 +1,2 @@
-## The PPW Homepage
+## Welcome to Pixel Pioneers
+#### PixelPioneers is a Minecraft MMORPG that takes place in a vast and open-world environment. The game is designed to provide players with a unique experience that combines the creativity of Minecraft with the excitement of MMORPGs. In PixelPioneers, players will embark on a journey to explore, discover, and build their way through a variety of challenges and obstacles.
